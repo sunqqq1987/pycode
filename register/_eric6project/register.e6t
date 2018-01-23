@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project register -->
+<!-- Saved: 2018-01-22, 08:59:27 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{3301a8a6-da81-4b3b-927c-96900561019b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-22, 08:14:52</Created>
+    <Resource>
+      <Filename>register-ui.py</Filename>
+      <Linenumber>32</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{25691341-8ad1-4a01-909d-653ee2564ff5}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-22, 08:41:38</Created>
+    <Resource>
+      <Filename>test.py</Filename>
+      <Linenumber>25</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{5b96b16f-3ca8-4437-b9a1-a149315d912c}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-22, 08:58:58</Created>
+    <Resource>
+      <Filename>register.py</Filename>
+      <Linenumber>31</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{89d25226-85a1-4999-ab19-69948f3f6357}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-22, 08:58:58</Created>
+    <Resource>
+      <Filename>register.py</Filename>
+      <Linenumber>39</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project rege -->
+<!-- Saved: 2018-01-23, 08:26:19 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{53e9eac8-be10-4649-83fa-cd2603266638}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-23, 08:26:12</Created>
+    <Resource>
+      <Filename>register.py</Filename>
+      <Linenumber>34</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{9ab0d7d2-0393-4561-acf2-caf1f860586b}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-23, 08:26:16</Created>
+    <Resource>
+      <Filename>coder.py</Filename>
+      <Linenumber>34</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{b1dea345-7005-4e51-89ef-f5c922dadac1}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2018-01-23, 08:26:16</Created>
+    <Resource>
+      <Filename>coder.py</Filename>
+      <Linenumber>42</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
