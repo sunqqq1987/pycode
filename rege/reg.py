@@ -2,6 +2,7 @@
 #取mac地址,异或0xf出机器码
 #取mac地址,异或0x4出sn中间码
 #sn中间码经过md5运算，出SN
+#测试用
 import uuid
 import hashlib
 #md5计算函数
